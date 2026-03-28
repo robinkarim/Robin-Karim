@@ -1,5 +1,5 @@
 # Robin R. Karim
-**Senior Technical Writer & IT Business Systems Analyst**
+Senior Technical Writer and IT Business Systems Analyst
 
 📍 Houston, TX | 📞 281-788-2146 | 📧 robinrkarim@yahoo.com | 🔗 [linkedin.com/in/robinkarim](https://linkedin.com/in/robinkarim)
 
@@ -7,7 +7,7 @@
 
 ## About Me
 
-Senior Technical Writer and Information Technology (IT) Business Systems Analyst with 13+ years of contract experience delivering enterprise-grade documentation across cybersecurity, financial services, oil and gas, healthcare, defense, and K–12 education sectors.
+Senior Technical Writer and Information Technology (IT) Business Systems Analyst with 13+ years of contract experience delivering enterprise-grade documentation across cybersecurity, financial services, oil and gas, healthcare, defense, and K-12 education sectors.
 
 I translate complex technical content into clear, accurate, and audience-appropriate documentation — from security plans and standard operating procedures (SOPs) to knowledge base articles and system implementation guides. I work directly with security engineers, architects, developers, and subject matter experts (SMEs) as the writer who makes their knowledge usable — not as a practitioner or certified specialist.
 
@@ -17,145 +17,146 @@ I specialize in structured authoring environments, Agile delivery teams, and doc
 
 ## Core Competencies
 
-**Technical Writing & Documentation**
+Technical Writing and Documentation
 - Darwin Information Typing Architecture (DITA) XML | Adobe FrameMaker | Arbortext Editor | MadCap Flare
 - Confluence | SharePoint | GitHub
 - User Guides | SOPs | Knowledge Base Articles | System Implementation Documentation
-- Release Notes | Process Documentation | Policy & Compliance Documentation
+- Release Notes | Process Documentation | Policy and Compliance Documentation
 - AP Style | Chicago Manual of Style | Microsoft Writing Style Guide
 
-**Cybersecurity Documentation**
-- Security Plans | Cyber Response & Recovery Documentation | Risk & Compliance Content
+Cybersecurity Documentation
+- Security Plans | Cyber Response and Recovery Documentation | Risk and Compliance Content
 - National Institute of Standards and Technology (NIST) Cybersecurity Framework | ISO 27001 documentation
 - Governance, Risk, and Compliance (GRC) content — documented in partnership with security engineers and SMEs
 
-**Knowledge Management**
+Knowledge Management
 - IT Knowledge Base Development | Self-Service Content Strategy
 - Knowledge-Centered Service (KCS) documentation practices
 - System Implementation Documentation | Workflow Capture | SOP Development
 
-**Business Analysis**
+Business Analysis
 - Requirements Gathering | Gap Analysis | Impact Analysis | Process Improvement
 - Business Requirements Documents (BRDs) | Use Cases | Data Migration Documentation
 - Stakeholder Interviews | SME Collaboration | Workstream Coordination
 
-**Platforms & Tools**
+Platforms and Tools
 - ServiceNow | Jira | Azure DevOps | Confluence | GitHub
 - Microsoft 365 Suite | Swagger/OpenAPI (documentation support)
 
-**Methodologies**
+Methodologies
 - Agile/Scrum | Waterfall | Iterative Documentation Development
 
 ---
 
 ## Professional Experience
 
-### Apex Systems → Chevron | Senior Cybersecurity Technical Writer
-**November 2024 – May 2025 | Houston, TX**
+Apex Systems to Chevron — Senior Cybersecurity Technical Writer
+November 2024 to May 2025 — Houston, TX
 
 Produced security plans, cyber response and recovery documentation, and systems update content for Chevron's cybersecurity program. Partnered with security engineers and SMEs as the documentation lead. Applied business analysis, policy analysis, and process improvement disciplines within an Agile cloud security environment.
 
 ---
 
-### Robert Half → Advance Robotics | Technical Writer (Backfill)
-**October 2024 – December 2024 | Houston, TX** *(Concurrent)*
+Robert Half to Advance Robotics — Technical Writer Backfill
+October 2024 to December 2024 — Houston, TX — Concurrent
 
 Authored whitepapers and trade publications using AP Style. Conducted documentation gap audits and delivered content on an accelerated timeline.
 
 ---
 
-### Eliassen Group | Senior Technical Writer
-**December 2023 – May 2024 | Houston, TX**
+Eliassen Group — Senior Technical Writer
+December 2023 to May 2024 — Houston, TX
 
 Developed DITA XML-structured content in Arbortext for a ServiceNow and Azure cloud migration program. Managed deliverables in Confluence and Jira within an Agile/Scrum framework.
 
 ---
 
-### LanceSoft → Manulife/John Hancock | Cybersecurity Technical Writer
-**March 2023 – December 2023 | Remote**
+LanceSoft to Manulife/John Hancock — Cybersecurity Technical Writer
+March 2023 to December 2023 — Remote
 
 Produced cybersecurity documentation including security plans, reports, and technical manuals aligned with ISO 27001. Partnered with security and compliance SMEs. Worked within Azure and Jira environments.
 
 ---
 
-### Eliassen Group → FIS WorldPay | Technical Writing Specialist
-**November 2021 – November 2022 | Houston, TX**
+Eliassen Group to FIS WorldPay — Technical Writing Specialist
+November 2021 to November 2022 — Houston, TX
 
 Built and maintained an IT Infrastructure Build Document repository supporting platform owner interviews, High-Order Technical Specification (HOTS) documentation, and periodic review cycles. Leveraged FrameMaker, DITA XML, and ServiceNow.
 
 ---
 
-### Turnberry Solutions → Comcast | Senior Technical Writer
-**March 2021 – December 2021 | Houston, TX**
+Turnberry Solutions to Comcast — Senior Technical Writer
+March 2021 to December 2021 — Houston, TX
 
 Created user guides, wikis, and Network Operations Center (NOC) runbooks for cloud infrastructure environments. Documented Amazon Web Services (AWS), Kubernetes, Ruby on Rails, and Splunk configurations in partnership with engineering SMEs.
 
 ---
 
-### Ross Professional Services → NAVSUP (U.S. Navy) | Federal Technical Writer
-**December 2020 – February 2021 | Remote**
+Ross Professional Services to NAVSUP U.S. Navy — Federal Technical Writer
+December 2020 to February 2021 — Remote
 
 Produced and copy-edited U.S. Navy supply manuals. Performed requirements determination and formatted deliverables for e-reader distribution. Handled classified material in accordance with federal standards.
+
 ---
 
-### Randstad → Blue Cross Blue Shield | IT Technical Writer
-**November 2020 – December 2020 | Houston, TX**
+Randstad to Blue Cross Blue Shield — IT Technical Writer
+November 2020 to December 2020 — Houston, TX
 
 Conducted SME and stakeholder interviews to produce IT knowledge articles. Served as IT Systems Analyst for Knowledge Management and coordinated quality assurance (QA) review cycles to improve self-service content accuracy.
 
 ---
 
-### iSphere → Houston Independent School District (HISD) | Senior Training Developer, Technical Writer & Business Systems Analyst
-**May 2017 – November 2020 | Houston, TX**
+iSphere to Houston Independent School District HISD — Senior Training Developer, Technical Writer and Business Systems Analyst
+May 2017 to November 2020 — Houston, TX
 
-Dual-role contributor on a four-year Student Information System (SIS) migration from Chancery to a new enterprise SIS platform. Managed 15–20 concurrent workstreams producing integration, implementation, custom, and migration documentation. Collaborated with subject matter experts, developers, senior Business Analysts (BAs), and project managers across release cycles.
+Dual-role contributor on a four-year Student Information System (SIS) migration from Chancery to a new enterprise SIS platform. Managed 15 to 20 concurrent workstreams producing integration, implementation, custom, and migration documentation. Collaborated with subject matter experts, developers, senior Business Analysts (BAs), and project managers across release cycles.
 
 ---
 
-### Virtusa/Net2Source → First Data Corporation | Senior IT Business Analyst / Technical Writer
-**March 2016 – March 2017 | Houston, TX**
+Virtusa/Net2Source to First Data Corporation — Senior IT Business Analyst and Technical Writer
+March 2016 to March 2017 — Houston, TX
 
 Authored service design and production readiness documentation using Confluence and Swagger/OpenAPI reference frameworks — supporting engineering SMEs as the documentation lead. Facilitated department meetings and conducted SME interviews.
 
 ---
 
-### ASK Staffing → Aon Hewitt | Healthcare IT BSA / Technical Writer
-**July 2015 – December 2015 | Houston, TX**
+ASK Staffing to Aon Hewitt — Healthcare IT BSA and Technical Writer
+July 2015 to December 2015 — Houston, TX
 
 Managed client change requests and impact analyses. Supported service level agreement (SLA) management processes via SharePoint and Excel.
 
 ---
 
-### Shea Writing & Training Solutions | Technical Writer
-**June 2014 – February 2015 | Houston, TX**
+Shea Writing and Training Solutions — Technical Writer
+June 2014 to February 2015 — Houston, TX
 
 Produced product specifications, operating and maintenance instructions, and SOPs through direct SME collaboration.
 
 ---
 
-### Software Specialists → GE Oil & Gas | Technical Writer
-**June 2013 – June 2014 | Houston, TX**
+Software Specialists to GE Oil and Gas — Technical Writer
+June 2013 to June 2014 — Houston, TX
 
 Conducted technical deliverable audits, produced bills of material, and authored Environment, Health, and Safety (EHS) compliance documentation using Arbortext Editor and Adobe FrameMaker.
 
 ---
 
-### TEKsystems → Pulse Systems | Technical Writer
-**November 2012 – April 2013 | Houston, TX**
+TEKsystems to Pulse Systems — Technical Writer
+November 2012 to April 2013 — Houston, TX
 
 Authored user manuals and communication plans. Collected and incorporated usability feedback into documentation revisions.
 
 ---
 
-### J.P. Morgan | Quality Assurance Analyst
-**2003 – 2009 | Houston, TX**
+J.P. Morgan — Quality Assurance Analyst
+2003 to 2009 — Houston, TX
 
 Conducted 400+ weekly QA audits. Produced reports, user guides, and course development materials.
 
 ---
 
-### MBNA | Technical Writer / Instructional Designer
-**2001 – 2003**
+MBNA — Technical Writer and Instructional Designer
+2001 to 2003
 
 Designed and delivered bank-wide training programs and Train-the-Trainer curriculum.
 
@@ -163,25 +164,24 @@ Designed and delivered bank-wide training programs and Train-the-Trainer curricu
 
 ## Education
 
-**Bachelor of Arts, Corporate Communications**
-Minor in Training & Development
-University of Houston | May 2009
+Bachelor of Arts, Corporate Communications
+Minor in Training and Development
+University of Houston — May 2009
 
 ---
 
-## Current Focus & Learning
+## Current Focus and Learning
 
-- 📋 Expanding knowledge management and system implementation documentation capabilities
-- 🔐 Growing cybersecurity documentation portfolio — partnering with security engineers as the SME-facing writer
-- 📚 Building SaaS technical writing skills: MkDocs, structured authoring, and GitHub publishing workflows
-
----
-
-## Writing Samples & Portfolio
-
-> Writing samples and structured authoring examples available upon request.
-> Samples span cybersecurity, IT infrastructure, healthcare IT, federal supply, financial services, and knowledge management domains.
+- Expanding knowledge management and system implementation documentation capabilities
+- Growing cybersecurity documentation portfolio — partnering with security engineers as the SME-facing writer
+- Building SaaS technical writing skills: MkDocs, structured authoring, and GitHub publishing workflows
 
 ---
 
-*Open to Senior Technical Writer, Knowledge Management Specialist, DITA XML Specialist, and IT Business Systems Analyst contract engagements — Houston, TX (on-site, hybrid, and remote).*
+## Writing Samples and Portfolio
+
+Writing samples and structured authoring examples available upon request. Samples span cybersecurity, IT infrastructure, healthcare IT, federal supply, financial services, and knowledge management domains.
+
+---
+
+Open to Senior Technical Writer, Knowledge Management Specialist, DITA XML Specialist, and IT Business Systems Analyst contract engagements — Houston, TX — on-site, hybrid, and remote.
