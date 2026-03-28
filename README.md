@@ -7,32 +7,41 @@
 
 ## About Me
 
-Senior Technical Writer and Information Technology (IT) Business Systems Analyst with 13+ years of contract experience delivering enterprise-grade documentation across cybersecurity, financial services, oil and gas, healthcare, defense, and K–12 education sectors. I translate complex technical content into clear, accurate, and audience-appropriate documentation — from security plans and application programming interface (API) references to standard operating procedures (SOPs) and knowledge base articles.
+Senior Technical Writer and Information Technology (IT) Business Systems Analyst with 13+ years of contract experience delivering enterprise-grade documentation across cybersecurity, financial services, oil and gas, healthcare, defense, and K–12 education sectors.
 
-I specialize in structured authoring environments (Darwin Information Typing Architecture (DITA) XML, Adobe FrameMaker, Arbortext), Agile delivery teams, and documentation programs that support large-scale system migrations, cybersecurity governance, and IT service management (ITSM) platforms.
+I translate complex technical content into clear, accurate, and audience-appropriate documentation — from security plans and standard operating procedures (SOPs) to knowledge base articles and system implementation guides. I work directly with security engineers, architects, developers, and subject matter experts (SMEs) as the writer who makes their knowledge usable — not as a practitioner or certified specialist.
+
+I specialize in structured authoring environments, Agile delivery teams, and documentation programs that support large-scale system migrations, cybersecurity governance, IT service management (ITSM) platforms, and knowledge management initiatives.
 
 ---
 
 ## Core Competencies
 
 **Technical Writing & Documentation**
-- DITA XML | Adobe FrameMaker | Arbortext Editor | MadCap Flare | Confluence | SharePoint
-- API Reference Documentation | SDK Documentation | User Guides | SOPs | Release Notes
-- Knowledge Management | Information Architecture | Content Strategy
+- Darwin Information Typing Architecture (DITA) XML | Adobe FrameMaker | Arbortext Editor | MadCap Flare
+- Confluence | SharePoint | GitHub
+- User Guides | SOPs | Knowledge Base Articles | System Implementation Documentation
+- Release Notes | Process Documentation | Policy & Compliance Documentation
 - AP Style | Chicago Manual of Style | Microsoft Writing Style Guide
 
-**Cybersecurity & Governance**
+**Cybersecurity Documentation**
 - Security Plans | Cyber Response & Recovery Documentation | Risk & Compliance Content
-- NIST Cybersecurity Framework | ISO 27001 | Governance, Risk, and Compliance (GRC)
+- National Institute of Standards and Technology (NIST) Cybersecurity Framework | ISO 27001 documentation
+- Governance, Risk, and Compliance (GRC) content — documented in partnership with security engineers and SMEs
+
+**Knowledge Management**
+- IT Knowledge Base Development | Self-Service Content Strategy
+- Knowledge-Centered Service (KCS) documentation practices
+- System Implementation Documentation | Workflow Capture | SOP Development
 
 **Business Analysis**
 - Requirements Gathering | Gap Analysis | Impact Analysis | Process Improvement
 - Business Requirements Documents (BRDs) | Use Cases | Data Migration Documentation
-- Stakeholder Interviews | Subject Matter Expert (SME) Collaboration
+- Stakeholder Interviews | SME Collaboration | Workstream Coordination
 
 **Platforms & Tools**
 - ServiceNow | Jira | Azure DevOps | Confluence | GitHub
-- Microsoft 365 Suite | Swagger/OpenAPI | Postman (in progress)
+- Microsoft 365 Suite | Swagger/OpenAPI (documentation support)
 
 **Methodologies**
 - Agile/Scrum | Waterfall | Iterative Documentation Development
@@ -44,7 +53,7 @@ I specialize in structured authoring environments (Darwin Information Typing Arc
 ### Apex Systems → Chevron | Senior Cybersecurity Technical Writer
 **November 2024 – May 2025 | Houston, TX**
 
-Produced security plans, cyber response and recovery documentation, and systems update content for Chevron's cybersecurity program. Applied business analysis, data analysis, policy analysis, and process improvement disciplines within an Agile, cloud security environment.
+Produced security plans, cyber response and recovery documentation, and systems update content for Chevron's cybersecurity program. Partnered with security engineers and SMEs as the documentation lead. Applied business analysis, policy analysis, and process improvement disciplines within an Agile cloud security environment.
 
 ---
 
@@ -65,13 +74,34 @@ Developed DITA XML-structured content in Arbortext for a ServiceNow and Azure cl
 ### LanceSoft → Manulife/John Hancock | Cybersecurity Technical Writer
 **March 2023 – December 2023 | Remote**
 
-Produced cybersecurity content including security plans, reports, and tech
+Produced cybersecurity documentation including security plans, reports, and technical manuals aligned with ISO 27001. Partnered with security and compliance SMEs. Worked within Azure and Jira environments.
+
+---
+
+### Eliassen Group → FIS WorldPay | Technical Writing Specialist
+**November 2021 – November 2022 | Houston, TX**
+
+Built and maintained an IT Infrastructure Build Document repository supporting platform owner interviews, High-Order Technical Specification (HOTS) documentation, and periodic review cycles. Leveraged FrameMaker, DITA XML, and ServiceNow.
+
+---
+
+### Turnberry Solutions → Comcast | Senior Technical Writer
+**March 2021 – December 2021 | Houston, TX**
+
+Created user guides, wikis, and Network Operations Center (NOC) runbooks for cloud infrastructure environments. Documented Amazon Web Services (AWS), Kubernetes, Ruby on Rails, and Splunk configurations in partnership with engineering SMEs.
+
+---
+
+### Ross Professional Services → NAVSUP (U.S. Navy) | Federal Technical Writer
+**December 2020 – February 2021 | Remote**
+
+Produced and copy-edited U.S. Navy supply manuals. Performed requirements determination and formatted deliverables for e-reader distribution. Handled classified material in accordance with federal standards.
 ---
 
 ### Randstad → Blue Cross Blue Shield | IT Technical Writer
 **November 2020 – December 2020 | Houston, TX**
 
-Conducted SME and stakeholder interviews to produce IT knowledge articles. Served as IT Systems Analyst for Knowledge Management and coordinated quality assurance (QA) review cycles.
+Conducted SME and stakeholder interviews to produce IT knowledge articles. Served as IT Systems Analyst for Knowledge Management and coordinated quality assurance (QA) review cycles to improve self-service content accuracy.
 
 ---
 
@@ -85,14 +115,14 @@ Dual-role contributor on a four-year Student Information System (SIS) migration 
 ### Virtusa/Net2Source → First Data Corporation | Senior IT Business Analyst / Technical Writer
 **March 2016 – March 2017 | Houston, TX**
 
-Authored service design and production readiness documentation using Confluence, Swagger/OpenAPI, and SDK reference frameworks. Facilitated department meetings and conducted SME interviews.
+Authored service design and production readiness documentation using Confluence and Swagger/OpenAPI reference frameworks — supporting engineering SMEs as the documentation lead. Facilitated department meetings and conducted SME interviews.
 
 ---
 
 ### ASK Staffing → Aon Hewitt | Healthcare IT BSA / Technical Writer
 **July 2015 – December 2015 | Houston, TX**
 
-Managed client change requests and impact analyses. Supported SLA management processes via SharePoint and Excel.
+Managed client change requests and impact analyses. Supported service level agreement (SLA) management processes via SharePoint and Excel.
 
 ---
 
@@ -141,17 +171,17 @@ University of Houston | May 2009
 
 ## Current Focus & Learning
 
-- 📚 Building SaaS and API technical writing skills: Postman, API reference documentation, MkDocs, and GitHub publishing workflows
-- 🔐 Expanding cybersecurity documentation portfolio aligned with NIST and ISO 27001 frameworks
-- 🤖 Exploring AI productivity tools for technical writing workflows
+- 📋 Expanding knowledge management and system implementation documentation capabilities
+- 🔐 Growing cybersecurity documentation portfolio — partnering with security engineers as the SME-facing writer
+- 📚 Building SaaS technical writing skills: MkDocs, structured authoring, and GitHub publishing workflows
 
 ---
 
 ## Writing Samples & Portfolio
 
-> Portfolio documentation, writing samples, and structured authoring examples available upon request.
-> Samples span cybersecurity, IT infrastructure, healthcare IT, federal supply, financial services, and cloud/API domains.
+> Writing samples and structured authoring examples available upon request.
+> Samples span cybersecurity, IT infrastructure, healthcare IT, federal supply, financial services, and knowledge management domains.
 
 ---
 
-*Open to Senior Technical Writer, DITA XML Specialist, Knowledge Management Specialist, and IT Business Systems Analyst contract engagements — Houston, TX (on-site and remote).*
+*Open to Senior Technical Writer, Knowledge Management Specialist, DITA XML Specialist, and IT Business Systems Analyst contract engagements — Houston, TX (on-site, hybrid, and remote).*
