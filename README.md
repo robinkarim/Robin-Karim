@@ -184,4 +184,4 @@ Writing samples and structured authoring examples available upon request. Sample
 
 ---
 
-Open to Senior Technical Writer, Knowledge Management Specialist, DITA XML Specialist, and IT Business Systems Analyst contract engagements — Houston, TX — on-site, hybrid, and remote.
+Open to Senior Technical Writer, Knowledge Management Specialist, DITA XML Specialist, and IT Business Systems Analyst contract engagements. 
