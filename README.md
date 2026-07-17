@@ -180,7 +180,7 @@ University of Houston — May 2009
 
 ## Writing Samples and Portfolio
 
-Writing samples and structured authoring examples available upon request. Samples span cybersecurity, IT infrastructure, healthcare IT, federal supply, financial services, and knowledge management domains.
+Full writing samples are organized by domain in the folders above — no request needed. Each folder contains complete work samples with a README describing the document type and context.
 
 ---
 
