@@ -133,6 +133,15 @@ University of Houston — May 2009
 - AI-assisted documentation workflows (Claude, ChatGPT, GitHub Copilot); prompt engineering; AI output review and quality assurance
 
 ## Writing Samples and Portfolio
-Full writing samples are organized by domain in the folders above — no request needed. Each folder contains complete work samples with a README describing the document type and context.
+Full writing samples are organized by domain in the folders below — no request needed. Each folder contains complete work samples with a README describing the document type and context:
+
+- **bsa-analyst** — Business Systems Analyst deliverables (BRDs, use cases, gap/impact analysis)
+- **cybersecurity-grc** — cybersecurity and GRC documentation (security plans, cyber response/recovery, risk and compliance content)
+- **dita-xml** — structured DITA XML topics (task, concept, and reference content)
+- **gov-state-policy** — federal and state government documentation (Navy supply manuals, state policy/compliance content)
+- **knowledge-management** — IT knowledge base and self-service content (KCS-based knowledge articles, workflow capture)
+- **servicenow** — ServiceNow ITSM platform documentation (infrastructure build docs, High-Order Technical Specification (HOTS) content, migration notes)
+- **sop-process** — SOPs and process documentation (product specs, EHS compliance content)
+- **system-implementation** — system implementation and migration documentation (implementation guides, migration docs, user guides/runbooks)
 
 Open to Senior Technical Writer, Knowledge Management Specialist, DITA XML Specialist, and IT Business Systems Analyst contract engagements — on-site, hybrid, and remote.
