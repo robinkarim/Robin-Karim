@@ -1,6 +1,0 @@
-# AI Prompt Engineering
-
-This folder contains a writing sample demonstrating core prompt engineering techniques: role-based prompting, few-shot examples, chain-of-thought reasoning, constraint-based reliability, iterative refinement, and AI-assisted output evaluation.
-
-- [AI-Prompt-Engineering-Sample.md](./AI-Prompt-Engineering-Sample.md) — full sample with prompts, reasoning, and review steps (renders directly on GitHub)
-- [AI-Prompt-Engineering-Sample.pdf](./AI-Prompt-Engineering-Sample.pdf) — same content, PDF format
