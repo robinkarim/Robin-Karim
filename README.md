@@ -1,7 +1,7 @@
 # Robin R. Karim
 Senior Technical Writer and IT Business Systems Analyst
 
-📍 Houston, TX | 📞 281-788-2146 | 📧 robinrkarim@yahoo.com | 🔗 [linkedin.com/in/robinkarim](https://linkedin.com/in/robinkarim)
+📞 281-788-2146 | 📧 robinrkarim@yahoo.com | 🔗 [linkedin.com/in/robinkarim](https://linkedin.com/in/robinkarim)
 
 ---
 
