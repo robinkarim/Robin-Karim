@@ -12,7 +12,7 @@ This repository showcases deliverables demonstrating structured authoring, regul
 |---|---|
 | [`AI-Prompt-Engineering`](./AI-Prompt-Engineering) | Prompt design samples and AI output review/QA examples |
 | [`bsa-analyst`](./bsa-analyst) | Business Systems Analyst artifacts — user stories, requirements documentation, process analysis |
-| [`cybersecurity-grc`](./cybersecurity-grc) | Governance, Risk, and Compliance documentation (NIST 800-53, ISO 27001, FISMA, HIPAA) |
+| [`cybersecurity-grc`](./cybersecurity-grc) | Governance, Risk, and Compliance documentation (NIST CSF 2.0, NIST 800-53, ISO 27001, FISMA, HIPAA), including a full NIST CSF policy, standard, and procedure program |
 | [`dita-xml`](./dita-xml) | Structured authoring samples using DITA XML (Oxygen XML Author, Arbortext, FrameMaker) |
 | [`gov-state-policy`](./gov-state-policy) | Government and state policy documentation |
 | [`knowledge-management`](./knowledge-management) | Knowledge base articles, KM process documentation |
