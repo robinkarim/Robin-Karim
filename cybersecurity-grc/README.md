@@ -8,6 +8,7 @@ Samples from documentation work supporting cybersecurity programs and Governance
 - **Cyber response and recovery documentation** — incident-response and recovery procedures written so they're usable under pressure, not just accurate on paper
 - **Risk and compliance content** — GRC narratives connecting a control or policy back to the standard it satisfies
 - **AI governance policy** — a model policy for deploying generative AI in a FINRA/SEC-regulated environment, covering risk tiering, IT audit controls, and required human review before AI output reaches a client
+- **[NIST CSF security documentation program](nist-csf-documentation-program/)** — a full remediation-to-maintenance set aligned to NIST CSF 2.0 and NIST SP 800-53 Rev. 5: policy, standard, procedure, consolidation map, control traceability matrix, document lifecycle register, style guide, stakeholder interview guide, compliance tracker, and templates
 
 ## Background
 
