@@ -1,0 +1,35 @@
+Requirement ID,Requirement (Summary),Source Document,CSF Function,CSF Subcategory,SP 800-53 Control,Coverage,Evidence
+ISP-GV-01,"Documented security program, approved and reviewed yearly",ISP-001,Govern,"GV.PO-01, GV.PO-02","PM-1, PL-1",Full,Signed approval; review calendar
+ISP-GV-02,Security roles assigned to named individuals,ISP-001,Govern,GV.RR-02,"PM-2, PS-9",Full,Roles table; organization chart
+ISP-GV-03,Cybersecurity risk appetite set,ISP-001,Govern,GV.RM-02,PM-9,Partial,Risk appetite statement in draft
+ISP-GV-04,"Every document has owner, version, and review date",ISP-001,Govern,GV.PO-02,"PM-1, PL-1",Full,Document register
+ISP-GV-05,Supplier security assessment before onboarding,ISP-001,Govern,"GV.SC-06, GV.SC-07","SR-6, SA-9",Full,Vendor assessment records
+ISP-ID-01,"Inventory of hardware, software, data, and cloud services",ISP-001,Identify,"ID.AM-01, ID.AM-02, ID.AM-07","CM-8, PM-5",Partial,Cloud services not in inventory
+ISP-ID-02,Four-level data classification,ISP-001,Identify,ID.AM-05,RA-2,Full,Classification standard
+ISP-ID-03,Risk assessments for new and existing systems,ISP-001,Identify,"ID.RA-04, ID.RA-05",RA-3,Full,Risk assessment reports
+ISP-ID-04,Lessons learned used to improve program,ISP-001,Identify,"ID.IM-01, ID.IM-03","CA-5, PM-4",Partial,No tracking of corrective actions
+ISP-PR-01,Least-privilege access,ISP-001,Protect,PR.AA-05,AC-6,Full,See STD-AC-001
+ISP-PR-02,"Multifactor authentication (MFA) for remote access, privileged access, and Confidential or Restricted data",ISP-001,Protect,PR.AA-03,"IA-2(1), IA-2(2)",Full,Identity provider report
+ISP-PR-03,Security awareness training at hire and yearly,ISP-001,Protect,PR.AT-01,AT-2,Full,Learning Management System (LMS) completion report
+ISP-PR-04,Encryption in transit and at rest,ISP-001,Protect,"PR.DS-01, PR.DS-02","SC-8, SC-28",Full,Configuration scans
+ISP-PR-05,Secure baselines and timely patching,ISP-001,Protect,"PR.PS-01, PR.PS-02","CM-2, CM-6, SI-2",Full,Vulnerability scan reports
+ISP-PR-06,Acceptable use of systems,ISP-001,Protect,PR.AT-01,PL-4,Full,Signed acknowledgments
+ISP-DE-01,Security event logging to central platform,ISP-001,Detect,"PR.PS-04, DE.CM-09","AU-2, AU-6, AU-12",Partial,Two critical systems not yet onboarded
+ISP-DE-02,Alert triage within set time frames,ISP-001,Detect,DE.AE-02,"SI-4, IR-4",Full,Security Operations metrics
+ISP-DE-03,12-month log retention,ISP-001,Detect,PR.PS-04,AU-11,Full,Storage configuration
+ISP-RS-01,Incident response plan maintained and tested,ISP-001,Respond,"ID.IM-04, RS.MA-01","IR-8, IR-3",Full,Tabletop exercise report
+ISP-RS-02,Workforce reports suspected incidents,ISP-001,Respond,RS.MA-02,IR-6,Full,Hotline and mailbox records
+ISP-RS-03,Severity classification and required notifications,ISP-001,Respond,"RS.MA-03, RS.CO-02","IR-6, IR-4",Full,Incident records
+ISP-RC-01,Recovery plans with recovery time and recovery point objectives,ISP-001,Recover,RC.RP-01,"CP-2, CP-10",Partial,Objectives set for 9 of 14 critical systems
+ISP-RC-02,Quarterly backup testing,ISP-001,Recover,"PR.DS-11, RC.RP-03","CP-4, CP-9",Full,Restore test logs
+ISP-RC-03,Recovery status communicated,ISP-001,Recover,RC.CO-03,"CP-2, IR-4",Full,Status updates in incident record
+AC-STD-02,Manager and system owner approval for access,STD-AC-001,Protect,PR.AA-05,AC-2,Full,Information Technology Service Management (ITSM) approvals
+AC-STD-03,Unique accounts; no shared accounts,STD-AC-001,Protect,PR.AA-01,"AC-2, IA-2",Full,Directory report
+AC-STD-06,"14-character passwords, no forced expiration",STD-AC-001,Protect,PR.AA-01,IA-5(1),Full,Directory policy settings
+AC-STD-11,No self-approval of privileged access,STD-AC-001,Protect,PR.AA-05,AC-5,Partial,Workflow change in progress
+AC-STD-12,Quarterly user access reviews,STD-AC-001,Protect,PR.AA-05,AC-2(j),Full,Review tickets
+AC-STD-15,Terminated-user access disabled within 4 hours,STD-AC-001,Protect,PR.AA-05,"AC-2, PS-4",Full,Human Resources (HR) feed and directory logs
+AC-STD-17,Inactive accounts disabled at 90 days,STD-AC-001,Protect,PR.AA-05,AC-2(3),Partial,Automation scheduled for Q1 2027
+PRO-IR-001 §5.3,Containment actions by incident type,PRO-IR-001,Respond,RS.MI-01,IR-4,Full,Incident records
+PRO-IR-001 §5.3,Evidence preservation and chain of custody,PRO-IR-001,Respond,RS.AN-07,"IR-4, AU-9",Full,Chain-of-custody forms
+PRO-IR-001 §5.7,Lessons-learned review after Sev 1 and Sev 2 incidents,PRO-IR-001,Respond,ID.IM-04,IR-4,Full,Lessons-learned reports
